@@ -8,7 +8,9 @@ The dashboard transforms raw sales data into meaningful visual reports, making i
 
 Features
 Interactive Excel Dashboard
+
 Pivot Tables & Pivot Charts
+
 Monthly Sales Analysis
 Orders vs Sales Comparison
 Men vs Women Sales Analysis
