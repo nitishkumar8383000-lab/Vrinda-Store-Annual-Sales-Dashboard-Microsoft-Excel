@@ -33,3 +33,19 @@ Designed a fully interactive Annual Sales Dashboard in Microsoft Excel to help b
   ## Dashboard
 
   <img width="1920" height="1080" alt="Screenshot 2026-07-12 114700" src="https://github.com/user-attachments/assets/3c0a8e7a-46d4-410c-9727-3339139d946a" />
+
+## Business Insights
+- Identified monthly sales trends and order volume.
+- Analyzed customer purchasing behavior by gender and age group.
+- Compared sales across different states.
+- Tracked order status including Delivered, Cancelled, Returned, and Refunded.
+- Evaluated performance of online sales channels such as Amazon, Flipkart, Myntra, Ajio, and Meesho.
+
+  ## Skills Demonstrated
+- Excel Dashboard Design
+- Data Analysis
+- Data Visualization
+- Report Automation
+- Business Intelligence
+- Data Cleaning
+- Excel Reportin
