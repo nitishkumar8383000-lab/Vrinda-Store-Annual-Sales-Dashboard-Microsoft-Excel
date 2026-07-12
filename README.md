@@ -6,7 +6,7 @@ Designed a fully interactive Annual Sales Dashboard in Microsoft Excel to help b
 
 The dashboard transforms raw sales data into meaningful visual reports, making it easier to analyze business performance and make informed decisions.
 
-##Features
+Features
 Interactive Excel Dashboard
 Pivot Tables & Pivot Charts
 Monthly Sales Analysis
@@ -20,7 +20,7 @@ Dynamic Slicers for Filtering
 Professional Layout & Color Theme
 
 
-##Tools Used
+Tools Used
 Microsoft Excel
 Pivot Tables
 Pivot Charts
@@ -30,7 +30,7 @@ Conditional Formatting
 Excel Formulas
 
 
-##Business Insights
+Business Insights
 Identified monthly sales trends and order volume.
 Analyzed customer purchasing behavior by gender and age group.
 Compared sales across different states.
@@ -38,7 +38,7 @@ Tracked order status including Delivered, Cancelled, Returned, and Refunded.
 Evaluated performance of online sales channels such as Amazon, Flipkart, Myntra, Ajio, and Meesho.
 
 
-##Skills Demonstrated
+Skills Demonstrated
 Excel Dashboard Design
 Data Analysis
 Data Visualization
